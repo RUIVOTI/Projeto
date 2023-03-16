@@ -1,0 +1,249 @@
+#titulo{
+    color:#8C52FF;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'codecproextrabold';
+
+/* Parte do Felipe e Laura abaixo */
+
+
+} 
+#felipe-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    margin-left: 30%;
+    margin-top:10px ;
+
+}
+#fundo{
+    background-color: #142140;
+    border-radius: 10%;
+    width: 250px;
+    height: 355px;
+    margin-left: 35%;
+    margin-top: 1%;
+}
+#titulofelipe-txt{
+    color: white;
+    margin-left: 23%; 
+    font-size: 30 px;  
+    margin-top: -20%;
+    font-family: "codecpro";
+}
+.estrelas{
+    color: gold;
+    padding: 3px 3px;
+    text-align: center;
+}
+#notas-fundo{
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 8px;
+    width:120px;
+    height: 20px;
+    margin-left: 25%;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -10%;
+    
+}
+#notas{
+    color: white;
+    margin-left: 5%;
+
+}
+#felipe-txt{
+    color: white;
+    margin-left: 10%;
+    font-size: 50px;
+    font-family: "codecpro";
+
+}
+#felipe-numero{
+    margin-left:10%;
+}
+#btn-cadastro-freelancer {
+    background-color: #8C52FF;
+    border: none;
+    color: #ffff;
+    padding: 10px 10px; /* Define o espaçamento interno do botão */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 0 0 80px; /* Define o espaçamento externo do botão */
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 28%;
+  }
+  #estrela{
+    display: flex;
+    flex-direction: row;
+  }
+
+  /* Parte do Felipe e Laura acima */
+
+
+
+
+  /* Parte do Juliana abaixo  */
+
+#felipe-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    margin-left: 30%;
+    margin-top:10px ;
+
+}
+#fundo-juliana{
+    background-color: #142140;
+    border-radius: 10%;
+    width: 250px;
+    height: 355px;
+    margin-left: 52%;
+    margin-top: -730px;
+}
+#titulofelipe-txt{
+    color: white;
+    margin-left: 23%; 
+    font-size: 200%;  
+    margin-top: -20%;
+     font-family: "codecpro";
+
+}
+.estrelas{
+    color: gold;
+    padding: 3px 3px;
+    text-align: center;
+}
+#notas-fundo{
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 8px;
+    width:120px;
+    height: 20px;
+    margin-left: 25%;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -10%;
+    
+}
+#notas{
+    color: white;
+    margin-left: 5%;
+
+}
+#felipe-txt{
+    color: white;
+    margin-left: 20%;
+    font-size: 110%;
+}
+#felipe-numero{
+    margin-left:10%;
+}
+#btn-cadastro-freelancer {
+    background-color: #8C52FF;
+    border: none;
+    color: #ffff;
+    padding: 10px 10px; /* Define o espaçamento interno do botão */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 0 0 80px; /* Define o espaçamento externo do botão */
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 28%;
+  }
+  #estrela{
+    display: flex;
+    flex-direction: row;
+  }
+
+  /* Parte do Juliana acima  */
+
+/* Parte do Miguel abaixo */
+
+
+
+  #felipe-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    margin-left: 30%;
+    margin-top:10px ;
+
+}
+#fundo-miguel{
+    background-color: #142140;
+    border-radius: 10%;
+    width: 250px;
+    height: 355px;
+    margin-left: 52%;
+    margin-top: 20px;
+}
+#titulofelipe-txt{
+    color: white;
+    margin-left: 23%; 
+    font-size: 200%;  
+    margin-top: -20%;
+}
+.estrelas{
+    color: gold;
+    padding: 3px 3px;
+    text-align: center;
+}
+#notas-fundo{
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 8px;
+    width:120px;
+    height: 20px;
+    margin-left: 25%;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -10%;
+    
+}
+#notas{
+    color: white;
+    margin-left: 5%;
+
+}
+#felipe-txt{
+    color: white;
+    margin-left: 20%;
+    font-size: 110%;
+}
+#felipe-numero{
+    margin-left:10%;
+}
+#btn-cadastro-freelancer {
+    background-color: #8C52FF;
+    border: none;
+    color: #ffff;
+    padding: 10px 10px; /* Define o espaçamento interno do botão */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 0 0 80px; /* Define o espaçamento externo do botão */
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 28%;
+  }
+  #estrela{
+    display: flex;
+    flex-direction: row;
+  }
+
+  /* Parte do Miguel acima */
+
+
+
+ 
